@@ -60,11 +60,11 @@ There are 2 ways to create your board
 
 1. Using onboarding kit or 
 
----
+<img src="https://erxes-docs.s3.us-west-2.amazonaws.com/2.sales.gif" width="100%" alt="Creating sales pipeline with onboarding kit"></img>
 
 2. Using the settings option
 
----
+<img src="https://erxes-docs.s3.us-west-2.amazonaws.com/3.sales.gif" width="100%" alt="Creating sales pipeline with settings option"></img>
 
 When you’re creating you pipeline, you have keep it mind that all businesses are different and requires different stages to reach the final stage of selling a product. Some companies use a five-stage pipeline, some use more than five, and some even use more than 10. Moreover, it all depends on the business.  Before creating your Sales pipeline stages, please read the blog post will hopefullyl help you to set up your Sales pipeline effectively. 
 
